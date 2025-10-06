@@ -73,7 +73,7 @@
 
 | Слой | Технологии |
 |------|-------------|
-| **Frontend** | React + Redux Toolkit + TailwindCSS + Recharts |
+| **Frontend** | React |
 | **Mobile** | Kotliт + Jetpack Compose |
 | **Backend** | Java 21 (Spring Boot) + PostgreSQL |
 | **Интеграция** | Псевдо-банк (REST API, JSON) |

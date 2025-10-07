@@ -71,8 +71,8 @@
 
 | Слой | Технологии |
 |------|-------------|
-| **Frontend** | React |
-| **Mobile** | Kotliт + Jetpack Compose |
+| **Frontend** | React + Redux Toolkit + Recharts|
+| **Mobile** | Kotlin + Jetpack Compose |
 | **Backend** | Java 21 (Spring Boot) + PostgreSQL |
 | **Интеграция** | Псевдо-банк (REST API, JSON) |
 | **CI/CD** | Docker Compose + GitHub Actions |
